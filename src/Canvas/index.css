@@ -1,0 +1,14 @@
+html{
+    font-family: sans-serif;
+}
+
+canvas {
+    background: #000000;
+    border: 1px dashed;
+  }
+
+a{
+    background-color: aquamarine;
+    display: inline-block;
+    text-decoration: none;
+}
