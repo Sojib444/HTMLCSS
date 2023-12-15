@@ -107,3 +107,34 @@ ul li{
     width: 20px;
     background-color: yellow;
 }
+
+.price{
+    float: left;
+}
+
+.shiping{
+    float: right;
+}
+
+.sale-desccription{
+    clear: both;
+}
+
+/* floating product details abnd product info */
+.product-info{
+    width: 241px;
+    float: left;
+    margin-left: 40px;
+    padding-top: 20px;
+}
+
+.product-details{
+    width: 241px;
+    float: left;
+    margin-left: 40px;
+}
+
+.product-image{
+    height: 250px;
+    float: left;
+}
